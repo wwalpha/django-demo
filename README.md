@@ -55,6 +55,7 @@ Find the plugins and install
 ####設定ファイルなど生成する
 ```
 django-admin startproject Django
+cd Django
 python ./manage.py startapp demo
 ```
 
